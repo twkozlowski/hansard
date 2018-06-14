@@ -1,0 +1,35 @@
+body {
+	font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+	font-weight: 400;
+	color: #171717;
+}
+
+h1 {
+	font-size: 1.2em;
+	text-align: center;
+	margin-bottom: .3em;
+}
+
+#subline {
+	font-size: 0.9em;
+	text-align: center;
+}
+
+#wrapper {
+	width: 70%;
+	margin: 0 auto;
+	margin-top: 1em;
+	text-align: justify;
+}
+
+#endnote {
+	text-align: center;
+}
+
+.speaker::first-line {
+	color: #428bca;
+}
+
+.rose {
+	color: #171717;
+}
